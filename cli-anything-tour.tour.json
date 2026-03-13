@@ -186,7 +186,7 @@
     {
       "id": "marketplace-config",
       "title": "Distribution & Marketplace",
-      "description": "The .claude-plugin directory contains marketplace configuration for distributing the plugin through the Claude Code marketplace. Each generated harness also includes a setup.py for PyPI publishing, enabling pip install of any agent harness. The PUBLISHING.md guide in the plugin directory covers the full distribution workflow.",
+      "description": "The claude-plugin directory contains marketplace configuration for distributing the plugin through the Claude Code marketplace. Each generated harness also includes a setup.py for PyPI publishing, enabling pip install of any agent harness. The PUBLISHING.md guide in the plugin directory covers the full distribution workflow.",
       "focusDirectory": ".claude-plugin",
       "colorMode": "fileTypes"
     },
