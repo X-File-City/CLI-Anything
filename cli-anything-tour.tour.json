@@ -7,7 +7,7 @@
     {
       "id": "welcome-overview",
       "title": "Welcome to CLI-Anything",
-      "description": "cli-anything is a framework for transforming GUI applications into agent-native CLI tools. This codebase contains the core Claude Code plugin, integrations for 4 AI platforms, and 11 fully tested reference harnesses spanning image editing, 3D modeling, audio, video, office, streaming, and more — with over 1500 passing tests at a 100% pass rate.",
+      "description": "cli anything is a framework for transforming GUI applications into agent-native CLI tools. This codebase contains the core Claude Code plugin, integrations for 4 AI platforms, and 11 fully tested reference harnesses spanning image editing, 3D modeling, audio, video, office, streaming, and more — with over 1500 passing tests at a 100% pass rate.",
       "focusDirectory": "",
       "colorMode": "fileTypes"
     },
